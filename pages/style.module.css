@@ -1,0 +1,30 @@
+/* .body{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+} */
+
+.MainHeading{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto auto;
+    color: yellow;
+}
+
+.red{
+    color: blue;
+}
+
+.displayNone{
+    display: none;
+}
+
+.navbar{
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    background-color: brown;
+    position: relative;
+    z-index: 1;
+    overflow: none;
+}
